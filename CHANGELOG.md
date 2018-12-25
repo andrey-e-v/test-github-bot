@@ -1,3 +1,7 @@
+## new7
+* [FRONTEND-2057](https://tracker.yandex.ru/FRONTEND-2057) Закостылить запрос на проверку наличия нод в группе 
+* [FRONTEND-2059](https://tracker.yandex.ru/FRONTEND-2059) Из уведомлений по изменению ноды уводить человека в виртуальную папку 
+
 ## 0.9.15
 * [FRONTEND-1575](https://tracker.yandex.ru/FRONTEND-1575) Добавить data-атрибут с айдишником нодам в навигаторе 
 * [FRONTEND-1562](https://tracker.yandex.ru/FRONTEND-1562) [ЕТ] Добавить 3 data-атрибута ячейкам таблицы ЕТ 
